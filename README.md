@@ -62,7 +62,3 @@ KF-TSER addresses these issues by treating frame-level predictions as **noisy me
 
 These results demonstrate the effectiveness of Kalman-based temporal modeling for speech emotion recognition.
 
----
-
-## Repository Structure
-
